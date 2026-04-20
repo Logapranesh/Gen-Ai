@@ -1,0 +1,9 @@
+streamlit
+langchain
+langchain-community
+langgraph
+chromadb
+pypdf
+tavily-python
+python-dotenv
+ollama
